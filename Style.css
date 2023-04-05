@@ -89,6 +89,8 @@ span {
 #popup-link {
   text-decoration: none;
   color: #fff;
+  position: relative;
+  bottom: 3px;
 }
 
 .overlay {
