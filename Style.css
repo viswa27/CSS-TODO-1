@@ -160,6 +160,12 @@ input[type=checkbox]:checked+label {
   background-color: #fff;
 }
 
+.addt1 {
+  position: fixed;
+  top: 17%;
+  left: 35%;
+}
+
 .task:hover {
   box-shadow: 0px 0px 15px 0px;
 }
